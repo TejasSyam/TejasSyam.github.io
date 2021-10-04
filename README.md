@@ -1,7 +1,9 @@
 # TejasSyam.github.io
 
-**This is my Github Website**
+**This is my Github File**
 
-As Anne Frank said:
-> Whoever is happy
-> will make others happy too
+_This is a website to represent the people I respect_
+
+An example of a famous quote by Muhammad Ali:
+> "Dont count the days,
+> Make the days count".
