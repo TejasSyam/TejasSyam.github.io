@@ -1,5 +1,6 @@
 
 
+
 .container {
                         display: flex;
 
@@ -18,3 +19,4 @@
                         /* Take the remaining width */
                         flex: 1;
                     }
+
