@@ -1,6 +1,6 @@
 # TejasSyam.github.io
-## My work
-**This is a Readme.md file**
+
+**This is my Github Website**
 
 As Anne Frank said:
 > Whoever is happy
