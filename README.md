@@ -2,8 +2,12 @@
 
 **This is my Github File**
 
-_This is a website to represent the people I respect_
+_This is a website to represent me_
 
-An example of a famous quote by Muhammad Ali:
+I always tell everyone a simple quote:
 > "Dont count the days,
 > Make the days count".
+
+I strongly believe in two things:
+- Health
++ Wealth
