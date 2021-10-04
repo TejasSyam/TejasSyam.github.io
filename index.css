@@ -4,9 +4,18 @@ body{
     height: 100vh;
     display: flex
     justify-content center;
-
-
 }
 
+.slider{
+    width: 800px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.slides{
+    width: 800px;
+    height: 500px;
+    display: flex
+}
 
 
