@@ -1,15 +1,16 @@
 
-.container {
+.card {
 display: flex;
-flex-direction: row-reverse;
-margin: 16px 0;
+flex-direction: column;
 }
 
-.container__image {
-width: 128px;
+.card__cover {
+height: 150px;
+width: 100%;
 }
 
-.container__feature {
+.card__content {   
 flex: 1;
 }
+
 
